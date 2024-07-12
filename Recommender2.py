@@ -6,8 +6,8 @@
 
 import pandas as pd
 import numpy as np
-from scipy.sparse.linalg import svds
-from sklearn.metrics.pairwise import cosine_similarity
+# from scipy.sparse.linalg import svds
+# from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import TfidfVectorizer
 
